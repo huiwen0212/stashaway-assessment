@@ -8,3 +8,6 @@
 # Test Files
 coverage
 jest.config.js
+
+common.log
+error.log
