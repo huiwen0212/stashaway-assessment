@@ -1,0 +1,10 @@
+# Enviroment Variable
+.env
+
+# compiled output
+/dist
+/node_modules
+
+# Test Files
+coverage
+jest.config.js
